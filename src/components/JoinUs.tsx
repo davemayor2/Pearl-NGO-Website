@@ -4,19 +4,19 @@ import AnimatedSection from './AnimatedSection';
 const JoinUs = () => {
   const engagementOptions = [
     {
-      icon: '/icons/volunteer.svg',
+      icon: '/icons/VOLUNTEER.png',
       alt: 'Volunteer icon',
       title: 'Volunteer',
       description: 'Join our community of dedicated volunteers and make a direct impact in the lives of widows and students through mentorship, workshops, and community outreach programs.'
     },
     {
-      icon: '/icons/partner.svg',
+      icon: '/icons/partnership.png',
       alt: 'Partner icon',
       title: 'Partner with Us',
       description: 'Collaborate with us as a corporate partner, organization, or institution to expand our reach and create sustainable programs that benefit communities across the region.'
     },
     {
-      icon: '/icons/donate.svg',
+      icon: '/icons/DONATE.png',
       alt: 'Donate icon',
       title: 'Donate',
       description: 'Support our mission with financial contributions that directly fund programs, provide resources, and create opportunities for those who need it most.'
