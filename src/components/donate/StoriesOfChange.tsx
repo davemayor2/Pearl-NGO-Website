@@ -6,7 +6,7 @@ const stories = [
   {
     id: 1,
     name: "Mama Esther",
-    photo: "/medium-shot-african-women-sitting-together.jpg",
+    photo: "/medium-shot-women-market.jpg",
     story: "With a grant of ₦10,000, Mama Esther expanded her small soap business and now supports her 3 children's education.",
     quote: "\"The support I received didn't just help my business, it gave my children hope for a better future.\"",
     location: "Lagos, Nigeria"

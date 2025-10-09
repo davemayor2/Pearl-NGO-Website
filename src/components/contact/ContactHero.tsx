@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function ContactHero() {
   return (
-    <section className="relative h-[50vh] min-h-[400px] w-full overflow-hidden">
+    <section className="relative h-[50vh] min-h-[400px] w-full overflow-hidden pt-[120px]">
       <Image src="/volunteers-teaming-up-organize-donations-charity.jpg" alt="Contact Us" fill priority className="object-cover" />
       <div className="absolute inset-0 bg-black/60" />
       <div className="relative z-10 h-full flex items-center">

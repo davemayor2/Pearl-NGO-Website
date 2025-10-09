@@ -5,7 +5,7 @@ import Button from '../ui/Button';
 
 export default function GetInvolvedHero() {
   return (
-    <section className="relative h-[70vh] min-h-[520px] w-full overflow-hidden">
+    <section className="relative h-[70vh] min-h-[520px] w-full overflow-hidden pt-[120px]">
       <Image
         src="/gET-iNVOLVED-hERObg.jpg"
         alt="Smiling volunteer"

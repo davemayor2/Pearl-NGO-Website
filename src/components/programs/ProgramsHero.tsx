@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const ProgramsHero = () => {
   return (
-    <section className="relative h-[60vh] lg:h-[72vh] flex items-center justify-center overflow-hidden">
+    <section className="relative h-[60vh] lg:h-[72vh] flex items-center justify-center overflow-hidden pt-[120px]">
       {/* Background image */}
       <motion.div 
         className="absolute inset-0"

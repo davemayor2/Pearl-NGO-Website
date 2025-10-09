@@ -5,7 +5,7 @@ import Button from '../ui/Button';
 
 export default function DonateHero() {
   return (
-    <section className="relative h-[60vh] min-h-[520px] w-full overflow-hidden">
+    <section className="relative h-[60vh] min-h-[520px] w-full overflow-hidden pt-[120px]">
       <Image src="/young-african-women-shopping-fashion-boutique-wearing-medical-masks.jpg" alt="Community" fill priority className="object-cover" />
       <div className="absolute inset-0 bg-black/60" />
       <div className="relative z-10 h-full flex items-center">
